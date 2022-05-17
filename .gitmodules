@@ -1,0 +1,15 @@
+[submodule "analise-redes"]
+	path = analise-redes
+	url = https://github.com/404renato/analise-redes.git
+[submodule "api-redes"]
+	path = api-redes
+	url = https://github.com/404renato/api-redes.git
+[submodule "web-redes"]
+	path = web-redes
+	url = https://github.com/404renato/web-redes.git
+[submodule "mobile-redes"]
+	path = mobile-redes
+	url = https://github.com/vitorcont/mobile-redes.git
+[submodule "rabbitmq-messages"]
+	path = rabbitmq-messages
+	url = https://github.com/vitorcont/rabbitmq-messages.git
